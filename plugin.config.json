@@ -1,0 +1,7 @@
+{
+	"extraScripts": [
+		"webview/log.ts",
+		"webview/map.ts",
+		"webview/places.ts"
+	]
+}
