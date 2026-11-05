@@ -8,8 +8,9 @@
 	"author": "Anders Nordby",
 	"homepage_url": "https://github.com/agnordby/joplin-plugin-placelog",
 	"repository_url": "https://github.com/agnordby/joplin-plugin-placelog",
-	"keywords": [],
-	"categories": [],
+	"platforms": ["mobile", "desktop"],
+	"keywords": ["diary", "location", "map", "gps"],
+	"categories": ["productivity"],
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {}
