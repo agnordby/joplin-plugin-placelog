@@ -72,3 +72,15 @@ optional time earlier on the line and an optional hidden coordinate comment:
 
 Lines you write by hand in this form show up on the map too, as long as the place
 name exists in the places note.
+
+## Feedback
+
+- **Bugs and feature requests:** open an issue at
+  https://github.com/agnordby/joplin-plugin-placelog/issues. Include your Joplin
+  version, your platform (desktop, Android or iOS) and the plugin version.
+- **Questions and general discussion:** post in the Plugins category of the
+  [Joplin forum](https://discourse.joplinapp.org/).
+- **Security problems:** do not open a public issue. Use "Report a vulnerability"
+  on the repository's Security tab.
+- **Pull requests** are welcome. For a larger change, open an issue first so we can
+  agree on the approach.
