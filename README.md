@@ -57,10 +57,7 @@ The plugin archive is written to `publish/no.nordby.placelog.jpl`.
 
 ## Install for testing
 
-- **Desktop.** Tools › Options › Plugins › Advanced settings › Development plugins:
-  add the path to this folder, then restart Joplin.
-- **Mobile.** Configuration › Plugins › Advanced › Install from file, and choose the
-  `.jpl` file from `publish/`.
+See [INSTALL.md](INSTALL.md) for desktop, Android, iPhone and the first GPS test.
 
 ## Note format
 
