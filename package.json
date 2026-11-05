@@ -1,6 +1,16 @@
 {
   "name": "joplin-plugin-placelog",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "Joplin plugin: log the time and your current place in a diary note, keep a list of known places, and show notes on a map.",
+  "author": "Anders Nordby",
+  "homepage": "https://github.com/agnordby/joplin-plugin-placelog#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnordby/joplin-plugin-placelog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agnordby/joplin-plugin-placelog/issues"
+  },
   "scripts": {
     "dist": "webpack --env joplin-plugin-config=buildMain && webpack --env joplin-plugin-config=buildExtraScripts && webpack --env joplin-plugin-config=createArchive",
     "prepare": "npm run dist",

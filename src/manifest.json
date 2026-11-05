@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "no.nordby.placelog",
 	"app_min_version": "3.2",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Placelog",
 	"description": "Log the time and your current place in a diary note, keep a list of known places, and show notes on a map.",
 	"author": "Anders Nordby",
